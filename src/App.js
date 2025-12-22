@@ -3,7 +3,7 @@ import { Routes, Route, Link } from "react-router-dom";
 
 import "./App.css";
 import "./Footer.css";
-import Logo from "./logo.png";
+import Logo from "./logo1.png";
 
 import LandingPage from "./LandingPage";
 import AuditWizard from "./AuditWizard";
